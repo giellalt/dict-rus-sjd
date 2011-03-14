@@ -1,0 +1,9164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Русско-юкагирский словарь, Якутск 2001
+Настоящий словарь является учебным пособием для студентов северной филологии Филологического факультета Якутского государственного университета им. М. К. Аммосова и  учащихся Андрюшкинской средней школы, где изучают юкагирский язык. Словник состоит из 1000 слов. В словарь включены необходимые слова обиходной лексики, что может помочь устному общению. 
+Составитель Атласова Элида Спиридоновна
+Адрес: РС(Я) 677000  г. Якутск,
+Ул. Ойунского 41, кв. 134
+Дом. Тел. 36-52-57
+Е-маil: sandro1@yandex.ru
+-->
+<!--
+The original format was DOC, conversion into XML by Michael Rießler
+-->
+
+<r xml:lang="rus">
+	<e>
+		<lg>
+			<l pos="xxx">Аркан</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="сущ">маачэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Алкоголь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаарчэ лаавйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Аромат</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амучэ подьэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Американец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">америкаан годэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Аккуратно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йануньиичиир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бабочка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кичиэн валмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бабушка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">абучиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Баловаться</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">айдарэйк</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бахрома</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нэлльийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бедный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл нэмэньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бедро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нигириидамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Белка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йорчибэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бег</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бежать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэ-</t>
+				<t>pos="xxx" person="3-е л"мэр олкэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бегом</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэрэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Безвкусный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл амуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Берег</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">а5адуоль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Белый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаавэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Белизна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаавийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Береза</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаа саал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Береста</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаарава</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Беседа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бессоница</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аавэл эвльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льитэгэс-</t>
+				<t>pos="xxx" person="3-е л"мэ льитэгэсум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Благодарить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пасииваа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блеск</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">подьарха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блестеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">подьа5а-</t>
+				<t>pos="xxx" person="3-е л"мэ подьа5ай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ближе</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">наречие эйуокэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блоха</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блюдо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сав5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блюдце</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сускэдалбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бог</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хойл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Богатырь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэрвийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Болезнь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодьэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Болеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоой-</t>
+				<t>pos="xxx" person="3-е л"мэ йоойм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Болтать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сукинь пэдугиэнуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Больница</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амахаанубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Больной</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоойэ кодэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодьэндьэрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Большой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бородавка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чалдьэрускэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Босиком</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">наречие ахчагуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Брак</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монорэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Брать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэнь-</t>
+				<t pos="xxx" person="3">мэ мэндьим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бревно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэрэмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бровь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йодии пурэврэ пугучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бросить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">суусээй-</t>
+				<t pos="xxx" person="3-е л">мэ суусээйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Брюки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">туурии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Будущее</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэйгудэ эдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бульон</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пунэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бусы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йадарха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Быстро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">амдур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Быстрый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чугуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ваш</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тит</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вам</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">титинь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вдруг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">польчэнмэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вдохновение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэнкэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ведро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лавйэдавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вести</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уусэ-</t>
+				<t>pos="xxx" person="3-е л"мэр уусэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Великий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чундийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вера</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хойл эвиэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Веревка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">игийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Верить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эвиэ-</t>
+				<t>pos="xxx" person="3-е л"мэр эвиэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вернуть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэнгэрэй-</t>
+				<t>pos="xxx" person="3-е л"мэ пэнгэрэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Веселый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чэньчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Весна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чуогаймэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Весло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ветвь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чилгэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ветер</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">илийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вечер</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">авйаа5ар</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Взрослый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чама кодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Взгляд</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ичуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Видеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ичуо-</t>
+				<t>pos="xxx" person="3-е л"мэр ичуонум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вилка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэвдии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Висеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валуол-</t>
+				<t pos="xxx" person="3-е л">мэ валуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вкус</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаньбэлуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Влево</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавланудэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вместе</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньа5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вниз</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">алгудэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Внук</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уодуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Внучка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уодуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вода</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лавйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вождь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэмльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Воздух</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пудэрэкун агарэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Воин</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайнубуодьэ кодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Война</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайнул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Волна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аннийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Волк</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эврэйрукун</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кориэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Волос</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вопить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хо5орэ-</t>
+				<t pos="xxx" person="3-е л">хо5орэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэчичигэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ворчать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t>ильирэ-</t>
+				<t pos="xxx" person="3-е л">мэр ильирэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ворона</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хагимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Восемь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалайлаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Воспитание</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ураричил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Восток</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэрпэйэ лохогойнубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вправо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йугуланудэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Враг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эрчэ годэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Врать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">харчи-</t>
+				<t pos="xxx" person="3-е л">мэ харчий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Врач</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амаладьаачэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вред</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаарчидьэ виэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Все</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавнэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Все</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавнуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Висеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валуол-</t>
+				<t pos="xxx" person="3-е л">мэ валуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Всегда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">охоль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вслух</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">хобо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Встать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эгуойи-</t>
+				<t pos="xxx" person="3-е л">мэр эгуойий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Встреча</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньинуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Входить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэвнаа-</t>
+				<t pos="xxx" person="3-е л">мэ сэвнаай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вчера</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">авйаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тит</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Выдра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">варал ньитлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вдох</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарэ мэдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Выдох</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарэ пулгэрэйл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Выделка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амалэрул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вылечивать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амахаасэ-</t>
+				<t pos="xxx" person="3-е л">мэр амахаасэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Выкидыш</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олэнхайхатэмэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Высокий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пурэбандьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Выше</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пурэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гагара</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саль5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гвоздь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">муйбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Где?</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">холльэ?</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хадаа?</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глаза</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глупость</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">онойгодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глухарь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саарульэ лабунмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глухой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл мондьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гнездо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чирэмэдавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гной</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">молгул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Год</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сукунмольгал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Голод</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэнубуньил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Голодать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэнубунь-</t>
+				<t pos="xxx" person="3-е л">мэ тэнубуньи</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Голос</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">анадэльил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Голый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">арав</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гора</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">анаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Горе</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуорпэйл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Горло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэнмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Горький</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валдьичэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Горячий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пугэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гость</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саримэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грести</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамдьавиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гриб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">самнэлданньэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гроб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодэн йаасик</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гром</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монор</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грудь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иисии</t>
+				<re>женская</re>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисил</t>
+				<re>мужская</re>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грусть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиниэвэрвиил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грустить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиниэвэрвии-</t>
+				<t pos="xxx" person="3-е л">мэ ньиниэвэрвиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грязь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йагуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Гусь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йандэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Давать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кии-</t>
+				<t pos="xxx" person="3-е л">мэ киим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Давно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тидаа</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тиндаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Далеко</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоко</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дальше</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">йахлаах</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Два</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кийуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Движение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ча5адьэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дверь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэспэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Девочка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">паадьэдуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Девушка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мархиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Девять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вальгарумкуруонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">День</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Деньги</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">погодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дерево</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Держать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваай-</t>
+				<t pos="xxx" person="3-е л">мэ ваайм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Десна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сальгариин  чуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Десять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кунильань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дети</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уорпэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дикий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл уруодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Диафрагма</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисинпадурха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Длинный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">читнэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Днем</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэмэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Добро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амудьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Добрый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Добыча</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иэруу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дождь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тивэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дом</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дорога</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дорого</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иральэнь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дочь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мархиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Драка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайнул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Древний</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тидаальэ</t>
+				<t pos="xxx">тиндаальэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дрова</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Друг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вальбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Другой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">конмэгисчэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">виэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Думать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чундэкудичи-</t>
+				<t pos="xxx" person="3-е л">мэ чундэкудичим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дурак</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">онойгодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Душа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нунни</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дух</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">киидьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дым</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">койридьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дыхание</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Дядя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хавдидьиэ</t>
+				<te>младший брат матери</te>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хавдьаа</t>
+				<te>старший брат матери</te>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чумуочиэ</t>
+				<te>старший брат отца</te>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">очидиэ</t>
+				<te>младший брат отца</te>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Еда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэгул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Елка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Есть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льэ-</t>
+				<t pos="xxx" person="3-е л">мэ льэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">быть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льэ-</t>
+				<t pos="xxx" person="3-е л">мэ льэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ехать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уу-</t>
+				<t pos="xxx" person="3-е л">мэр ууй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Еще</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вайидэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жабры</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэнмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жалеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуолвэй-</t>
+				<t pos="xxx" person="3-е л">мэ йуолвэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жара</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пугудьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Железо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Желток</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нонудуон ордьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Желудок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">моньидавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Желчь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вальдьидьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жена</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">апаналаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жених</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">конмэн морав</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Женщина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мунайдьии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жестокий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йононьэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жечь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эндэ-</t>
+				<t>pos="xxx" person="2-е л"мэр эндэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Живот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">моньил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Животное</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарэндьэрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жизнь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жилище</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жир</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаньир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">энну-</t>
+				<t pos="xxx" person="3-е л">мэр эннуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Жук</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тороньэйгодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Заблудиться</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">са5аа</t>
+				<t pos="xxx" person="3-е л">мэ са5аай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Заболеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоой-</t>
+				<t pos="xxx" person="3-е л">мэ йоойм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Заговорить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">антэй-</t>
+				<t pos="xxx" person="3-е л">мэр антэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Завидовать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">холлийуори</t>
+				<t pos="xxx" person="3-е л">мэ холлийуорим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Завтра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эгуойи</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Завязать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иирэ-</t>
+				<t pos="xxx" person="3-е л">мэр иирэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Загар</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пойэгэ чорох</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Задание</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">виэйуол-морав</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Задний</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайалльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Закат</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэрпэйэн элэйнубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Закон</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сокуон</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Замерзнуть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чахардьэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Замок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэспэ тунуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Запас</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эгуойиэмльэ лэгул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Запах</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">подьэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Запрет</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идиэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Запор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йиэндьэ силгальэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Заяц</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ойого</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Звать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэ-</t>
+				<t pos="xxx" person="3-е л">мэ ньиэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Звезда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пагадьиидэкуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зверь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">талав</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Звук</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чадьуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Здесь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэньи</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Здоровье</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл  йамдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Здравствуйте</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">дараавэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зеленый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хомоньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Земля</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лукул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зеркало</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаачэйонии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зима</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хандьэмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аньил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Злой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоночибуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Змея</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">читнэй кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Знать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">курильии-</t>
+				<t pos="xxx" person="3-е л">мэ курильиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зола</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лачидэнидьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зуб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сальгарии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Игла</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">муридьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Игра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуорэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Игрушка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуории</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Идти</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уу-</t>
+				<t pos="xxx" person="3-е л">мэр ууй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Икра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньунудуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Икота</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иличил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Имя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кирийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Интерес</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалагил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Искать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ванчи</t>
+				<t pos="xxx" person="3-е л">мэ ванчим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Истина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угунэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Иней</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">оорэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Инфекция</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэлдуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Какой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуодьэбандьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Календарь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэчундьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Камень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хайль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Каникулы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уттэг эврэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Караван</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэгии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Карман</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чиидоной</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Капать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиигэ-</t>
+				<t pos="xxx" person="3-е л">мэ сиигэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Копать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лукул хогиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Качать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йархурэ-</t>
+				<t pos="xxx" person="3-е л">мэ йархурэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кашель</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиниэйэгуу виэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кидать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">суусэй-</t>
+				<t pos="xxx" person="3-е л">мэ суусэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кинжал</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамадьо5ойэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кипеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лол5аа-</t>
+				<t pos="xxx" person="3-е л">мэ лол5аай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кислым быть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валдьуу-</t>
+				<t pos="xxx" person="3-е л">мэ валдьич</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кишка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">муоминэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кладбище</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йабуодьэ чиин лукул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Клоп</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваавэч пимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Клык</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вага сальгарии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Клей</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йорчии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Книга</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кинигэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Когда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ханьин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Колено</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мольгадамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Колесо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">помэркэчуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Конь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоходилэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кора</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саанхалдэвэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Корень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">варулуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кормить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">логитэ-</t>
+				<t pos="xxx" person="3-е л">мэ логитэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Корова</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэрэвэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Корень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">варулуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Коса</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильэн ньуоруу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Костер</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лачил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Косточка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амундиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Который</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хади</t>
+				<t pos="xxx">хадуги</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Край</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агил</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вахчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Красивый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуолдэ амучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Красный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамучэньи</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Краснота</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Красота</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нотинэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кривой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хайруонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Крик</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">орул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кричать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">орньэ-</t>
+				<t pos="xxx" person="3-е л">мэр орньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кровать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ааваал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кровь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чиэмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Круг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">помэркэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Крыша</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэн пурэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Крыло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уйэ</t>
+				<t pos="xxx">уйэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кто</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кинэк</t>
+				<t pos="xxx">кин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кукла</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уориидуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Купить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиданну-</t>
+				<t pos="xxx" person="3-е л">мэ ньиданнум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Куропатка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лабунмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кушать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэвдэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ладонь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэдаримэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лазать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуудьи-</t>
+				<t pos="xxx" person="3-е л">мэ хуудьий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лапа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ласка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэвлигил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лаять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайсэ-</t>
+				<t pos="xxx" person="3-е л">мэ лайсэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Левый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавлаагандэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лебедь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамиидьиткэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лгать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">харчибуол-</t>
+				<t pos="xxx" person="3-е л">мэ харчибуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Легкие</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лахуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лед</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йарха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лежать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">худуол-</t>
+				<t pos="xxx" person="3-е л">мэ худуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лекарство</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амаличчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ленивый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">элэнньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лентяй</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл энньийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лес</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саанмонильэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лесотундра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">саангичил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лететь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чэнгуру-</t>
+				<t pos="xxx" person="3-е л">мэ чунгуруй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лиса</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньэтлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лист</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пугил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лицо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вага</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаачэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ловить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">либаттэрэй-</t>
+				<t pos="xxx" person="3-е л">мэ либаттэрэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лодка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ольдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ложка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуодии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лопата</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эримэаавйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лось</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">торойэга</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лошадь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоходилэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ловить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">биба5ии-</t>
+				<t pos="xxx" person="3-е л">мэ биба5иим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Луна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">киндьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лыжа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хайсар</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лысый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аравйаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лысина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хабатаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Любить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амудьии-</t>
+				<t pos="xxx" person="3-е л">мэр амудьиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Любовь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэвлигил</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амудьиил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Люди</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Майка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">урбаакэн ходирэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Маленький</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуку</t>
+				<t pos="xxx">йукуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мальчик</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куодьидуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мама</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эньиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Масло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаньир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Матка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уодавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Медведь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хайчиэтэгэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Место</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэлдьии</t>
+				<re>стоянка</re>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мех</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пиирии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Много</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пойуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Младший</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайбуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Могила</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайбуодьи чии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мозг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Молодежь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уонодьэдьии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Молодой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уонадьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Молоко</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иисии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Монета</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чуон погодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Моргать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тива5арэй-</t>
+				<t pos="xxx" person="3-е л">мэ тива5арэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Море</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чавул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мох</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоллэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мочалка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ло5ории</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Моча</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">улгэльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мудрец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чундийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Муж</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэлур</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэлдудиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мужчина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэйпэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мука</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">онидьэлэгул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мусор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ордьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Муха</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньилла</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мит</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мыть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ло5орэ-</t>
+				<t pos="xxx" person="3-е л">мэ ло5орэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мягким быть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мойинэ-</t>
+				<t pos="xxx" person="3-е л">мэ мойинэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мысль</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чундэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мясо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мяч</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мохлэчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Наблюдать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">наврии-</t>
+				<t pos="xxx" person="3-е л">мэ навриим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Навоз</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иэндьэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Навсегда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">харуду</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Надуть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льирэрэй-</t>
+				<t pos="xxx" person="3-е л">мэ льирэрэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Назад</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лайгудэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Найти</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нугу-</t>
+				<t pos="xxx" person="3-е л">мэ нугум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нам</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">митинь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Написать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэлэс-</t>
+				<t pos="xxx" person="3-е л">мэ нимэлэсум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нарвать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиса5арэй-</t>
+				<t pos="xxx" person="3-е л">мэ сиса5арэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Народ</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">омо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Насекомое</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Насморк</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йогун лавйэ сиигэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Настоящий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эвйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Настроение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиниэ лохнэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Небо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуруул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Невоспитанный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл ураричуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нельма</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нунгэ</t>
+				<t pos="xxx">нунгэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нельзя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаньич</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Немой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эларуудьаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Немного</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">ал5амлал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Немножко</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">йукуочуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Неумеха</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэлдуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нижний</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">алулльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нищий</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">элнэмэньийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Новорожденный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">инийидуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нога</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Носки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ва5адиилиэ угурчэдуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Новый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэдьиэрпэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нож</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чогойэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ножницы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">анньалдьогойэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ноздря</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йогод экуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нора</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">авур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нос</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йогул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ночь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чиничэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нюхать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx"/>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обед</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэмэльэ лэгул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обида</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоночинуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Облако</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сукун давэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обман</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">харчил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обнять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эмлэрэй-</t>
+				<t pos="xxx" person="3-е л">мэр эмлэрэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обрадовать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пунуосэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обижать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">айии-</t>
+				<t pos="xxx" person="3-е л">мэр айиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Обувь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Огонь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лачил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Огромный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуотэги</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Одеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мараас-</t>
+				<t pos="xxx" person="3-е л">мэ мараасум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Одолевать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">албэдьиитэ-</t>
+				<t pos="xxx" person="3-е л">мэр албэдьиитэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Одежда</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Одеяло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аавии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Один</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маархуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ожог</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">солльэйуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Озеро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йалгил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Окно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йархадьэльил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Олень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">илэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Олененок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ээнидуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Он</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тудэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Они</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">титтэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Опора</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">архуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Опять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Орел</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ханьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Осень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоссомэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Оспа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамайуодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Отдых</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уттэ гэврэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Отец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Охотиться</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иэруу-</t>
+				<t pos="xxx" person="3-е л">мэр иэрууй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Очаг</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэчидэдуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Очень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амутнэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Падать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">на5а-</t>
+				<t pos="xxx" person="3-е л">мэ на5ай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Палец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пальто</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">магил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Папа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пар</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Парень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куодьэдуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пастух</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иэриичэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пастбище</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">илэлльэбул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пасти</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иэрэ-</t>
+				<t pos="xxx" person="3-е л">мэр иэрэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Паук</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисхайгодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Песня</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йахтэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Перчатка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисхадоной</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Петь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йахтэ-</t>
+				<t pos="xxx" person="3-е л">мэ йахтэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Печень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">альаайэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пешком</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэлэк мирануй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Писатель</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэлэсиичэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Писать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэлэс-</t>
+				<t pos="xxx" person="3-е л">мэ нимэлэсум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Письмо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лав-</t>
+				<t pos="xxx" person="3-е л">мэ лавй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плакать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">оориньэ</t>
+				<t pos="xxx" person="3">мэр оориньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Платок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ва5адиилиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Платье</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пайпэдурбааха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плавник</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аль5адуйэ</t>
+				<re>рыбы</re>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Племянник</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">адуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плечо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэрбэд амун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плохо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаарчич</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Победа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пурэбэдьиил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Повар</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лэгулпундьиэчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Повесить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэлтэ-</t>
+				<t pos="xxx" person="3-е л">мэ вэлтэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Повязка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэн пиирии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Погода</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">илийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Подарок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">анил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Подушка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нонор</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пожар</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лачилэньэдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Поздравить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ондэри-</t>
+				<t pos="xxx" person="3-е л">мэр ондэрим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пол</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">индулэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Полдень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэдордьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Помощь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Понимать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">курильиинаа-</t>
+				<t pos="xxx" person="3-е л">мэ курильиинаам</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Понос</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильави</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Поселок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэдэмул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пугудьэриэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Похороны</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йабуодьэ кодэ кудэрэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Поцелуй</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">убаал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Почка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">муньмул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Поясница</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чумур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Правнук</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уодуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Прадед</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амаа амаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Предок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ва5арииль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Проглотить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">элэрэй-</t>
+				<t pos="xxx" person="3-е л">мэр элэрэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Просто</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">анмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Простор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэйлуодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Привести</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэчи-</t>
+				<t pos="xxx" person="3-е л">мэ кэчим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Привычка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьилвэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Приятный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амуч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Приз</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валуодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Прыгнуть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуса5ай-</t>
+				<t pos="xxx" person="3-е л">мэ хуса5ач</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Прямо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">йатах</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Птица</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">уйэньэйрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пугало</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">икивийэ</t>
+				<t pos="xxx">икивийэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пуговицы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пахуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пугать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">икивии-</t>
+				<t pos="xxx" person="3-е л">мэр икивиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Путник</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йавунгодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пух</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">могуль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">имдалдьань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пятно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">торойо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Работа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чагадьал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Работать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ча5адьаа-</t>
+				<t pos="xxx" person="3-е л">мэ ча5адьаай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Радуга</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуруун унумэдьуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Развалить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">харпильэс-</t>
+				<t pos="xxx" person="3-е л">мэ харпильэсум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рассказ</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рана</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуольэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рано</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">варайнэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рассказать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэдьи-</t>
+				<t pos="xxx" person="3-е л">мэ ньиэдьий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Растение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пулгидьилэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Расти</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуму-</t>
+				<t pos="xxx" person="3-е л">мэ чамумуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Расчесывать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ан5и-</t>
+				<t pos="xxx" person="3-е л">мэр ан5им</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рвать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиса5арэй-</t>
+				<t pos="xxx" person="3-е л">мэ сиса5арэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рвать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньир-</t>
+				<t pos="xxx" person="3-е л">мэ ньирнуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">тошнить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньир-</t>
+				<t pos="xxx" person="3-е л">мэ ньирнуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ребенок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэтнуйдуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ребро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньумурад амун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Резать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ча5ууйи</t>
+				<t pos="xxx" person="3-е л">мэ ча5ууйиим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ресница</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодиинбугучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ремень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">игийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Родители</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эньэй-амаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Родить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэдьуории-</t>
+				<t pos="xxx" person="3-е л">мэ мэдьуориим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ана</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рубашка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">урбааха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ругать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ильэтэ-</t>
+				<t>pos="xxx" person="3-е л"мэ ильитэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ружье</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аариин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Русский</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваавэчэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рука</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ручей</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиигийэ</t>
+				<t pos="xxx">сиигийэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рыба</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аль5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Самец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">койии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сани</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лалимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Салфетка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэпилиэйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Свадьба</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монорэл</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">логириндьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сват</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аруудэврэсчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сверху</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пурэврэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Свет</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Светать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэрэй-</t>
+				<t pos="xxx" person="3-е л">мэ чайлэрэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Свидание</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньинуул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сделать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">виэ-</t>
+				<t pos="xxx" person="3-е л">мэ виэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Себя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэтул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сейчас</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Седина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильэн еьаавийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Секрет</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агарииль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Селедка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">силдьааткэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Семь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пускийань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сердце</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сугудьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Серый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаринэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Серьга</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">унумдьу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сестра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">экыэ</t>
+				<re>старшая</re>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сказка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">караваал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Скала</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иириэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Скупердяй</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ва5уодьэрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Слепой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валдуйрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Смерть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йабал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Смех</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агальвэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Смеяться</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">а5альвэ-</t>
+				<t pos="xxx" person="3-е л">мэр а5альвэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Смотреть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ичуо-</t>
+				<t pos="xxx" person="3-е л">мэр ичуом</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Снег</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эримэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Собака</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лаамэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сова</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сахлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Современный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьирэльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сон</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аавэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сокол</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йукуочиил сайрэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Солнце</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэрпэйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Солома</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ульэгэраал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сорок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэлукунгуниль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сосать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иви-</t>
+				<t pos="xxx" person="3-е л">мэр ивим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сосед</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пудинимийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сильно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">чаманэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ааваа-</t>
+				<t pos="xxx" person="3-е л">мэр ааваай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чумур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньинилитэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спешить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амду-</t>
+				<t pos="xxx" person="3-е л">мэр амдуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спросить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">курилич</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стадо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вардьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стакан</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сускэн пурэбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Старение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лугумул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Старик</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэлдудиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Старуха</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">апаналаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Старый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тидаальэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Старший</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуой</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стерх</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">удиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стирать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ло5орэ-</t>
+				<t>pos="xxx" person="3-е л"мэ ло5орэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стол</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">самхараал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сторож</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ворпэриичэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сторожить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ворпэри-</t>
+				<t pos="xxx" person="3-е л">ворпэрим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стоять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">а5уол-</t>
+				<t pos="xxx" person="3-е л">мэр  а5уонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стрела</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Суп</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пунэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сустав</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">моль5ал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Счастье</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мааруол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Счет</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чунул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сшить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иирэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сын</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">адуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Табак</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нонга</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Таз</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">таас</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Талия</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">андэдильил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Танец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иимидьиэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Танцор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иимидьиэчэ</t>
+				<t pos="xxx">иимидьиэчэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Танцевать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иимидьи-</t>
+				<t pos="xxx" person="3-е л">мэр иимидьий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тапочки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэга ониэнубэ угурчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тарелка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сав5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Там</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">адаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Таракан</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тащить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваарэй-</t>
+				<t pos="xxx" person="3-е л">мэ ваарэйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Таять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">альаа-</t>
+				<t pos="xxx" person="3-е л">мэр альаай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Твой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэтльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Творог</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иисиин то5уруол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тебя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэтул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Теленок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэвлидьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тело</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэдэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Темный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тороньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тень</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодэнаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Теперь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тепло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пугэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Течение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ваайл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тетя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаадиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Теща</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэт конмэ эниэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Толстый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">котинэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Толпа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чиин солхо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тонкое</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">киивийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Топор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нумудьии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Топот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тибэгэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трава</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ульэгэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трещина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиса5уу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Три</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йалуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трогать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сальдьиэк мэнмэк</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трубка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нонга лавйа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трусики</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">алба турии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трус</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">риниэбуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трусливый</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэринэнульэльум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Трудность</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иральадьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тряпка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пилиэчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Туман</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамчэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тундра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуорпурэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ты</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тяжело</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иральань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тяжесть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">иральадьэрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тщательно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">амалвэтльэрэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Угол</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чугунмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Уголь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хаальидэрэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Убивать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуньиичэ-</t>
+				<t pos="xxx" person="3-е л">мэ пуньиичэм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Убирать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йану5арэйнаа-</t>
+				<t pos="xxx" person="3-е л">мэ йану5арэйнаам</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Уважение</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамариил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ударить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">паай-</t>
+				<t pos="xxx" person="3-е л">мэ паайм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Удача</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мааруол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Удивление</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалэйл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Узор</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Укус</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кичиэ нэрэйл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Улететь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чэндэй-</t>
+				<t pos="xxx" person="3-е л">мэ чэндэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Улыбка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агальвийил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ум</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чундэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Умывальник</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">логодьаанубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Упасть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">на5а-</t>
+				<t pos="xxx" person="3-е л">мэ на5ай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Усы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ананбугучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Утро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьигойгир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ухо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">унумэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Уходить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэвэй-</t>
+				<t pos="xxx" person="3-е л">мэ кэвэч</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Учащийся</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ураануйд</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Учеба</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ураричил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Учитель</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ураритчэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ужас</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">икивэлгэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хвастаться</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэрдьи-</t>
+				<t pos="xxx" person="3-е л">мэ кэрдьий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хвост</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лахил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хвоя</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пивиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хлеб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">килиэп</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хитрец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мотуукаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ходить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эврэ-</t>
+				<t pos="xxx" person="3-е л">мэр эврэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хозяин</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нимэн годэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Холод</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хандьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Холм</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ходирэ чумур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Холостой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл конмэндьэ кодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хорошо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">амутнэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Храпеть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йо5унмонэрньэ-</t>
+				<t pos="xxx" person="3-е л">мэ йо5унмонэрньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Хромать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чигирчи-</t>
+				<t pos="xxx" person="3-е л">мэ чигирчий</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Худой</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нэрэгуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Царапать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуору-</t>
+				<t pos="xxx" person="3-е л">мэ йуорум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Царь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамадалдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Цветок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пулгэдьилэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Церковь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хойн нимэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Целовать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">идьи-</t>
+				<t pos="xxx" person="3-е л">мэр идьим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Цена</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вальэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чайка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хуларха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Часы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чайлэн орчи</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чашка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сускэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Человек</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Червь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Череп</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Черный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тороньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Черт</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кукул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чесать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуору-</t>
+				<t pos="xxx" person="3-е л">мэ йуорум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Четыре</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йалаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чистота</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">элйаагулчаа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чихать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чэвну-</t>
+				<t pos="xxx" person="3-е л">мэчэвнуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Что</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нэмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чудовище</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кукул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Чукча</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чупчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шапка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">моно</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шарф</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамиир сукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шаман</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">волмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шесть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалайлань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шелест</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сиэ5ал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шея</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамиил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Школа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ураанубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шепот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">агандьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шов</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">индьуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шкура</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">савэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шить</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">индьэ</t>
+				<t pos="xxx" person="3-е л">мэр индьэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шишка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">понкэтээ</t>
+				<re>дерева</re>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шкаф</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">савгадавур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Штаны</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">оон</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шуба</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">магил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щека</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуойэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щенок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">лаамэдуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щепка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">альилэ</t>
+				<t pos="xxx">альилэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щука</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">умуйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Это</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэн</t>
+				<t pos="xxx">тун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Этот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">адун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Эвен</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эрпэйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Эхо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаандьадьуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Юноша</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">адил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Юкагир</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вадул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Юкола</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэльиэд альга</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Я</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ягода</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуриэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ягель</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньордьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Язык</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аруу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Язык</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<semantics>
+				<stype>анат</stype>
+			</semantics>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ванар</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Яйцо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нонодуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Яма</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хаварха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Якут</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йохол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ящерица</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">валудул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ящик</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаасик</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Кодэн кэдэл</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">Части тела человека</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Голова</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Макушка головы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодэвчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лоб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуорумур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глаз</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Глаза</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодиипэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нос</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йогул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Лицо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаачэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ана</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щека</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуойэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Щеки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пуойэпэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Волосы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монильэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Зуб</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сальгарии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ухо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">унумэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Уши</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">унумэпэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шея</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньамиил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Горло</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэнмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Язык</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ванар</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нижние губы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">анадалбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Верхние губы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ананбурубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ноздри</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йогудэкуу</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Затылок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эгииндэгиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плечо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэрбэдамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Плечо</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сэрбэдамупэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Рука</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Руки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чальдьэпэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Палец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пальцы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисхапэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Спина</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чумур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Живот</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">моньил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Грудь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сисидамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пупок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нутнэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Подмышка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хаадэлэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Нога</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Икра</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пэкчидуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Носки ног</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">угурчэдэвчэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пятки</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чагатахиль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Стопа</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аримэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Я</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Ты</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Он</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тудэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Мы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мит</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Вы</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тит</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Они</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">титтэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Один</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маархуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Два</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кийуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Три</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йалуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Четыре</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йалаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">имдалдьань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шесть</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалайлань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Семь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пускийань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Восемь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">маалайлаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Девять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вальгарумкуруонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Десять</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кунильань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Одиннадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль маархуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Двенадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль кийуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тринадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль йалуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Четырнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль йалаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пятнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль имдалдьань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Шестнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль маалайлань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Семнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль пускийань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Восемнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль маалайлаклань</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Девятнадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">куниль вальгарумкуруонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Двадцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кингуниль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тридцать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаангуниль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сорок</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэлукунгуниль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Пятьдесят</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">имдалдингуниль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Сто</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">истуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Тысяча</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">тиисэчэ</t>
+			</tg>
+		</mg>
+	</e>
+</r>
