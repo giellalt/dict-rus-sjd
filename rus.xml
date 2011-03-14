@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+This is a preliminary version. Some elements contain different kind of informations, this has to be cleaned up.
+-->
+
+<r xml:lang="rus">
+	<e>
+		<lg>
+			<l pos="conj">а</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нак’ам; -ым; иъэлыги</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m" number="sgtantum">август</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">н’этйъилгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">автомобиль</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ковлёргоор</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">автономный</l>
+			<l pos="a" gender="f">автономная</l>
+			<l pos="a" gender="n">автономное</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">автономныкэн; Чукотский автономный округ Чукоткакэн автономныкэн округ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">автор</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тэкэлиныльын, тэйкыткульын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">адрес</l>
+			<l pos="n" gender="m" number="pl">адрес</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нымытван</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">аккуратно</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ныгтамъав, нытэн’ъэв; вылтэты</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йануньиичиир</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">аккуратный</l>
+			<l pos="a" gender="f">аккуратная</l>
+			<l pos="a" gender="n">аккуратное</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ныгтамкэн, вылтэты вальын; экимылтэткыльин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">активно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нытъивъэв, эпэнъивкэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">активный</l>
+			<l pos="a" gender="f">активная</l>
+			<l pos="a" gender="n">активное</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нытъивкин, эпэнъивкыльин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">Алкоголь</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаарчэ лаавйэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">алфавит</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">алфавит; напиши по алфавиту кыкэлигынэт алфавитыгъет</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">алый</l>
+			<l pos="a" gender="f">алая</l>
+			<l pos="a" gender="n">алое</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кытчелгыльын. лыгэчелгыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">альбатрос</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">какытэк’</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">амбар</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кэмэтъыёчгыран</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">Американец</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">америкаан годэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m" number="sgtantum">апрель</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гыройъзлгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">аптека</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">аптека, малявэчгыран</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">арестовать</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эймитык, пирик, воскырак</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">аркан</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">чаат</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="сущ">маачэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="prop" gender="f">Арктика</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">Эйгыскын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">армия</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">армия, мараврат; Советская Армия Советкэн Армия</t>
+			</tg>
+		</mg>
+	</e>
+		<e>
+		<lg>
+			<l pos="n" gender="m">Аромат</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амучэ подьэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">ароматный</l>
+			<l pos="a" gender="f">ароматная</l>
+			<l pos="a" gender="n">ароматное</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нытаныткэкэн, таныткэгты вальын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">атака</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">маравпэнрыткогыргын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n" class="uninflected">ателье</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тавэръынран, ванэран</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">атомоход</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">атомоход (кэтгулъын гилынчитэвык лелъутвъэт)</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">аэродром</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">аэродром, рэн’анан’вакъон</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">аэропорт</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">аэропорт, рэн’анан’ытван</t>
+			</tg>
+		</mg>
+	</e>
+</r>
