@@ -9,3 +9,8 @@ The element <lexsample> tags a Russian lexeme's membership in a certain list:
 Rus800
 _____________
 list taken from the word file of a dictionary of Russian-Yukhagir basic vocabulary. Copy right status unclear. More info in the XML file.
+
+=============
+Rus3500
+_____________
+list taken from the word file of a dictionary of Russian-Chukchi basic vocabulary. Copy right status unclear. More info in the XML file.
