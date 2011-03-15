@@ -40,7 +40,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">автономный</l>
+			<l pos="a">автономный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -93,7 +93,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">аккуратный</l>
+			<l pos="a">аккуратный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -115,7 +115,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">активный</l>
+			<l pos="a">активный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -152,7 +152,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">алый</l>
+			<l pos="a">алый</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -281,7 +281,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">ароматный</l>
+			<l pos="a">ароматный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -575,7 +575,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бедный</l>
+			<l pos="a">бедный</l>
 			<lexsample>Rus800</lexsample>
 			<lexsample>Rus3500</lexsample>
 		</lg>
@@ -665,7 +665,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">Безвкусный</l>
+			<l pos="a">Безвкусный</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
@@ -676,7 +676,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">беззащитный</l>
+			<l pos="a">беззащитный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -687,7 +687,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">безударный</l>
+			<l pos="a">безударный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -739,7 +739,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">белый</l>
+			<l pos="a">белый</l>
 			<lexsample>Rus800</lexsample>
 			<lexsample>Rus3500</lexsample>
 		</lg>
@@ -782,7 +782,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бережливый</l>
+			<l pos="a">бережливый</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -892,7 +892,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бесплатный</l>
+			<l pos="a">бесплатный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -914,7 +914,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">беспощадный</l>
+			<l pos="a">беспощадный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -939,7 +939,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бесстрашный</l>
+			<l pos="a">бесстрашный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1051,7 +1051,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бледный</l>
+			<l pos="a">бледный</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1093,7 +1093,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">блестящий</l>
+			<l pos="a">блестящий</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1130,7 +1130,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">близкий</l>
+			<l pos="a">близкий</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1221,7 +1221,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">богатый</l>
+			<l pos="a">богатый</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1237,7 +1237,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">богатырский</l>
+			<l pos="a">богатырский</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1274,7 +1274,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">бодрый</l>
+			<l pos="a">бодрый</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -1285,7 +1285,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="a" gender="m">боевой</l>
+			<l pos="a">боевой</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
