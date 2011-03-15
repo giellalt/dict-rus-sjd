@@ -12,7 +12,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нак’ам; -ым; иъэлыги</t>
+				<t>нак’ам; -ым; иъэлыги</t>
 			</tg>
 		</mg>
 	</e>
@@ -23,7 +23,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">н’этйъилгын</t>
+				<t>н’этйъилгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -34,7 +34,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ковлёргоор</t>
+				<t>ковлёргоор</t>
 			</tg>
 		</mg>
 	</e>
@@ -45,7 +45,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">автономныкэн</t>
+				<t>автономныкэн</t>
 			</tg>
 			<xg>
 				<x>Чукотский автономный округ</x>
@@ -60,7 +60,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тэкэлиныльын, тэйкыткульын</t>
+				<t>тэкэлиныльын, тэйкыткульын</t>
 			</tg>
 		</mg>
 	</e>
@@ -72,7 +72,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нымытван</t>
+				<t>нымытван</t>
 			</tg>
 		</mg>
 	</e>
@@ -84,10 +84,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ныгтамъав, нытэн’ъэв; вылтэты</t>
+				<t>ныгтамъав, нытэн’ъэв; вылтэты</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йануньиичиир</t>
+				<t>йануньиичиир</t>
 			</tg>
 		</mg>
 	</e>
@@ -98,7 +98,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ныгтамкэн, вылтэты вальын; экимылтэткыльин</t>
+				<t>ныгтамкэн, вылтэты вальын; экимылтэткыльин</t>
 			</tg>
 		</mg>
 	</e>
@@ -109,7 +109,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нытъивъэв, эпэнъивкэ</t>
+				<t>нытъивъэв, эпэнъивкэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -120,7 +120,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нытъивкин, эпэнъивкыльин</t>
+				<t>нытъивкин, эпэнъивкыльин</t>
 			</tg>
 		</mg>
 	</e>
@@ -131,7 +131,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">ньаарчэ лаавйэ</t>
+				<t>ньаарчэ лаавйэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -142,7 +142,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">алфавит</t>
+				<t>алфавит</t>
 			</tg>
 			<xg>
 				<x>напиши по алфавиту</x>
@@ -157,7 +157,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кытчелгыльын, лыгэчелгыльын</t>
+				<t>кытчелгыльын, лыгэчелгыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -168,7 +168,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">какытэк’</t>
+				<t>какытэк’</t>
 			</tg>
 		</mg>
 	</e>
@@ -179,7 +179,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кэмэтъыёчгыран</t>
+				<t>кэмэтъыёчгыран</t>
 			</tg>
 		</mg>
 	</e>
@@ -190,7 +190,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">америкаан годэ</t>
+				<t>америкаан годэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -201,7 +201,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гыройъзлгын</t>
+				<t>гыройъзлгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -212,7 +212,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">аптека, малявэчгыран</t>
+				<t>аптека, малявэчгыран</t>
 			</tg>
 		</mg>
 	</e>
@@ -223,7 +223,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эймитык, пирик, воскырак</t>
+				<t>эймитык, пирик, воскырак</t>
 			</tg>
 		</mg>
 	</e>
@@ -235,7 +235,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">чаат</t>
+				<t>чаат</t>
 			</tg>
 			<tg xml:lang="ykg">
 				<t pos="сущ">маачэ</t>
@@ -249,7 +249,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">Эйгыскын</t>
+				<t>Эйгыскын</t>
 			</tg>
 		</mg>
 	</e>
@@ -260,7 +260,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">армия, мараврат</t>
+				<t>армия, мараврат</t>
 			</tg>
 			<xg>
 				<x>Советская Армия</x>
@@ -275,7 +275,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">амучэ подьэл</t>
+				<t>амучэ подьэл</t>
 			</tg>
 		</mg>
 	</e>
@@ -286,7 +286,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нытаныткэкэн, таныткэгты вальын</t>
+				<t>нытаныткэкэн, таныткэгты вальын</t>
 			</tg>
 		</mg>
 	</e>
@@ -297,7 +297,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">маравпэнрыткогыргын</t>
+				<t>маравпэнрыткогыргын</t>
 			</tg>
 		</mg>
 	</e>
@@ -308,7 +308,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тавэръынран, ванэран</t>
+				<t>тавэръынран, ванэран</t>
 			</tg>
 		</mg>
 	</e>
@@ -319,7 +319,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">атомоход (кэтгулъын гилынчитэвык лелъутвъэт)</t>
+				<t>атомоход (кэтгулъын гилынчитэвык лелъутвъэт)</t>
 			</tg>
 		</mg>
 	</e>
@@ -330,7 +330,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">аэродром, рэн’анан’вакъон</t>
+				<t>аэродром, рэн’анан’вакъон</t>
 			</tg>
 		</mg>
 	</e>
@@ -341,7 +341,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">аэропорт, рэн’анан’ытван</t>
+				<t>аэропорт, рэн’анан’ытван</t>
 			</tg>
 		</mg>
 	</e>
@@ -353,10 +353,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">к’опалготкочьын</t>
+				<t>к’опалготкочьын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">кичиэн валмэ</t>
+				<t>кичиэн валмэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -368,10 +368,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эпэк’эй, н’эвмиргык’эй</t>
+				<t>эпэк’эй, н’эвмиргык’эй</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">абучиэ</t>
+				<t>абучиэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -382,7 +382,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">рыляйвыё, рынрыё, инэн, имыт</t>
+				<t>рыляйвыё, рынрыё, инэн, имыт</t>
 			</tg>
 		</mg>
 	</e>
@@ -393,7 +393,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">черунэн’</t>
+				<t>черунэн’</t>
 			</tg>
 		</mg>
 	</e>
@@ -404,7 +404,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эмлыёчгын</t>
+				<t>эмлыёчгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -416,10 +416,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">к’ун’ычгэтык, кумъэрик, гичивэтык, тэгычгэнатык</t>
+				<t>к’ун’ычгэтык, кумъэрик, гичивэтык, тэгычгэнатык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">айдарэйк</t>
+				<t>айдарэйк</t>
 			</tg>
 		</mg>
 	</e>
@@ -430,7 +430,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пувтын</t>
+				<t>пувтын</t>
 			</tg>
 		</mg>
 	</e>
@@ -441,7 +441,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">злгытавран</t>
+				<t>злгытавран</t>
 			</tg>
 		</mg>
 	</e>
@@ -452,7 +452,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">барабан, ярар</t>
+				<t>барабан, ярар</t>
 			</tg>
 		</mg>
 	</e>
@@ -463,12 +463,12 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ярарыткок</t>
+				<t>ярарыткок</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(стучать) кыпчыткок</t>
+				<t>(стучать) кыпчыткок</t>
 			</tg>
 		</mg>
 	</e>
@@ -479,7 +479,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кытэпалгын; (домашний) яракытэпалгын</t>
+				<t>кытэпалгын; (домашний) яракытэпалгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -490,7 +490,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">нэлльийэ</t>
+				<t>нэлльийэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -501,7 +501,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кынильэтык, рильэтык</t>
+				<t>кынильэтык, рильэтык</t>
 			</tg>
 		</mg>
 	</e>
@@ -513,12 +513,12 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(человека) кытгынтатгыргын, кыляквыргын; (животного) э'рамъятгыргын, пак’ыткогыргын</t>
+				<t>(человека) кытгынтатгыргын, кыляквыргын; (животного) э'рамъятгыргын, пак’ыткогыргын</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">олкэл</t>
+				<t>олкэл</t>
 			</tg>
 		</mg>
 	</e>
@@ -529,7 +529,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(о человеке) кытгынтатык, кылявык, кычавычьатык, кытгынтыръок; (о животном) и'рэмъетык, пэк’ыткук, ръилек</t>
+				<t>(о человеке) кытгынтатык, кылявык, кычавычьатык, кытгынтыръок; (о животном) и'рэмъетык, пэк’ыткук, ръилек</t>
 			</tg>
 		</mg>
 	</e>
@@ -541,10 +541,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кытгынта, кылява, ръилетэ</t>
+				<t>кытгынта, кылява, ръилетэ</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">олкэрэн</t>
+				<t>олкэрэн</t>
 			</tg>
 		</mg>
 	</e>
@@ -555,7 +555,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">а'к’агыргын, а' к’алтатгыргьш</t>
+				<t>а'к’агыргын, а' к’алтатгыргьш</t>
 			</tg>
 		</mg>
 	</e>
@@ -566,7 +566,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">н’ъогты</t>
+				<t>н’ъогты</t>
 			</tg>
 		</mg>
 	</e>
@@ -578,17 +578,17 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(неимущий)   нъольын</t>
+				<t>(неимущий)   нъольын</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(жалкий) яйвачгыргын</t>
+				<t>(жалкий) яйвачгыргын</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">эл нэмэньэй</t>
+				<t>эл нэмэньэй</t>
 			</tg>
 		</mg>
 	</e>
@@ -599,7 +599,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">т н’ъочьын</t>
+				<t>т н’ъочьын</t>
 			</tg>
 		</mg>
 	</e>
@@ -610,7 +610,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">нигириидамун</t>
+				<t>нигириидамун</t>
 			</tg>
 		</mg>
 	</e>
@@ -622,10 +622,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кытгынтатык,   кылявык</t>
+				<t>кытгынтатык,   кылявык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">олкэ-</t>
+				<t>олкэ-</t>
 				<t pos="xxx" person="3-е л">мэр олкэй</t>
 			</tg>
 		</mg>
@@ -637,7 +637,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">э-/а-~-кэ/-ка</t>
+				<t>э-/а-~-кэ/-ка</t>
 			</tg>
 			<xg>
 				<x>без   товарища</x>
@@ -664,7 +664,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">эл амуо</t>
+				<t>эл амуо</t>
 			</tg>
 		</mg>
 	</e>
@@ -675,7 +675,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвиринкылыга, эйилюкыльин</t>
+				<t>эвиринкылыга, эйилюкыльин</t>
 			</tg>
 		</mg>
 	</e>
@@ -698,7 +698,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">ньаавийэ</t>
+				<t>ньаавийэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -710,10 +710,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">равыльэн</t>
+				<t>равыльэн</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йорчибэ</t>
+				<t>йорчибэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -724,7 +724,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пурэк</t>
+				<t>пурэк</t>
 			</tg>
 		</mg>
 	</e>
@@ -736,10 +736,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нилгык’ин, илгыльын</t>
+				<t>нилгык’ин, илгыльын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">ньаавэй</t>
+				<t>ньаавэй</t>
 			</tg>
 		</mg>
 	</e>
@@ -750,7 +750,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвычанэръын, эвычан’авэръын</t>
+				<t>эвычанэръын, эвычан’авэръын</t>
 			</tg>
 		</mg>
 	</e>
@@ -762,12 +762,12 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гычурмын; (мбря) ан’к’ачормын; (реки) вээмчурмын</t>
+				<t>гычурмын; (мбря) ан’к’ачормын; (реки) вээмчурмын</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">а5адуоль</t>
+				<t>а5адуоль</t>
 			</tg>
 		</mg>
 	</e>
@@ -778,7 +778,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нэмкумъык’ин, ныгтамк’эн, ныгынрырк’ин</t>
+				<t>нэмкумъык’ин, ныгтамк’эн, ныгынрырк’ин</t>
 			</tg>
 		</mg>
 	</e>
@@ -789,7 +789,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нэмкумъэв, ныгтамъав</t>
+				<t>нэмкумъэв, ныгтамъав</t>
 			</tg>
 		</mg>
 	</e>
@@ -800,7 +800,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гытамо лынык, эмкумъу лын’ык</t>
+				<t>гытамо лынык, эмкумъу лын’ык</t>
 			</tg>
 		</mg>
 	</e>
@@ -812,10 +812,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">вылгил</t>
+				<t>вылгил</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йаа саал</t>
+				<t>йаа саал</t>
 			</tg>
 		</mg>
 	</e>
@@ -826,7 +826,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йаарава</t>
+				<t>йаарава</t>
 			</tg>
 		</mg>
 	</e>
@@ -837,7 +837,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кайн’ыран</t>
+				<t>кайн’ыран</t>
 			</tg>
 		</mg>
 	</e>
@@ -849,10 +849,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пычвэтгав</t>
+				<t>пычвэтгав</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">ньиэдьил</t>
+				<t>ньиэдьил</t>
 			</tg>
 		</mg>
 	</e>
@@ -863,7 +863,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пычвэтгавык, вэтгаквылгык</t>
+				<t>пычвэтгавык, вэтгаквылгык</t>
 			</tg>
 		</mg>
 	</e>
@@ -874,7 +874,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвилкэ,   эркуркэ,    амынгыквыка, аманэка</t>
+				<t>эвилкэ,   эркуркэ,    амынгыквыка, аманэка</t>
 			</tg>
 		</mg>
 	</e>
@@ -885,7 +885,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвилкыльин, эвилкы вальын</t>
+				<t>эвилкыльин, эвилкы вальын</t>
 			</tg>
 		</mg>
 	</e>
@@ -896,7 +896,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пэгчин’этык, линтъыльык; (о ком-л.) пэгчин’у лын’ык, линтъылю лын’ык; вести себя беспокойно аромкатык</t>
+				<t>пэгчин’этык, линтъыльык; (о ком-л.) пэгчин’у лын’ык, линтъылю лын’ык; вести себя беспокойно аромкатык</t>
 			</tg>
 		</mg>
 	</e>
@@ -907,7 +907,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эейвэчкыльин,  элин’кыльин, тэрмэчьын’ыльын</t>
+				<t>эейвэчкыльин,  элин’кыльин, тэрмэчьын’ыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -918,7 +918,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">аавэл эвльэ</t>
+				<t>аавэл эвльэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -929,7 +929,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">э'кэлин’кыльин, айылгыкыльэн, элинвиттыкыльин</t>
+				<t>э'кэлин’кыльин, айылгыкыльэн, элинвиттыкыльин</t>
 			</tg>
 		</mg>
 	</e>
@@ -940,7 +940,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвыргыргыкэ, акаврыткыка</t>
+				<t>эвыргыргыкэ, акаврыткыка</t>
 			</tg>
 		</mg>
 	</e>
@@ -951,7 +951,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">билет</t>
+				<t>билет</t>
 			</tg>
 		</mg>
 	</e>
@@ -962,7 +962,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гитэнэн’</t>
+				<t>гитэнэн’</t>
 			</tg>
 		</mg>
 	</e>
@@ -973,7 +973,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">инэнкылвэтичгьга, инэнкылтичгын</t>
+				<t>инэнкылвэтичгьга, инэнкылтичгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -984,7 +984,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">  мараквыргын,   эрвывылгыгыргын;</t>
+				<t>  мараквыргын,   эрвывылгыгыргын;</t>
 			</tg>
 			<xg>
 				<x>битва  за  Москву</x>
@@ -1000,10 +1000,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">таляйвык, кыпчевык; (что-л.) рымчеэръавык, рычимиръэвык, рыкавчеэръавык</t>
+				<t>таляйвык, кыпчевык; (что-л.) рымчеэръавык, рычимиръэвык, рыкавчеэръавык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">льитэгэс-</t>
+				<t>льитэгэс-</t>
 				<t>pos="xxx" person="3-е л"мэ льитэгэсум</t>
 			</tg>
 		</mg>
@@ -1015,7 +1015,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(драться) мараввылгык;   (о  чём-л.)  к’авчеэръатык,   чимиръэтык, мычеэръатык</t>
+				<t>(драться) мараввылгык;   (о  чём-л.)  к’авчеэръатык,   чимиръэтык, мычеэръатык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1027,10 +1027,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">рырэк’улымн’эвык,   рывэлынкык’УВЫК</t>
+				<t>рырэк’улымн’эвык,   рывэлынкык’УВЫК</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">пасииваа</t>
+				<t>пасииваа</t>
 			</tg>
 		</mg>
 	</e>
@@ -1041,7 +1041,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пъачьо,  пъачьольын,  илгыльульын</t>
+				<t>пъачьо,  пъачьольын,  илгыльульын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1053,10 +1053,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">к’элпэран,  к’элпэрагыргын</t>
+				<t>к’элпэран,  к’элпэрагыргын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">подьарха</t>
+				<t>подьарха</t>
 			</tg>
 		</mg>
 	</e>
@@ -1068,10 +1068,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кэлпэрак, тыкильэтык</t>
+				<t>кэлпэрак, тыкильэтык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">подьа5а-</t>
+				<t>подьа5а-</t>
 				<t>pos="xxx" person="3-е л"мэ подьа5ай</t>
 			</tg>
 		</mg>
@@ -1083,7 +1083,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кэлпэральын,  нытк’илк’ин</t>
+				<t>кэлпэральын,  нытк’илк’ин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1095,10 +1095,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">чымчан’</t>
+				<t>чымчан’</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">наречие эйуокэ</t>
+				<t>наречие эйуокэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1109,7 +1109,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эймэвык, чымчан’ нъэлык</t>
+				<t>эймэвык, чымчан’ нъэлык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1120,7 +1120,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">чымчекин ; (о родственнике) чиниткин, чычеткин</t>
+				<t>чымчекин ; (о родственнике) чиниткин, чычеткин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1131,7 +1131,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">чымче</t>
+				<t>чымче</t>
 			</tg>
 		</mg>
 	</e>
@@ -1142,7 +1142,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">кодьэ</t>
+				<t>кодьэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1154,10 +1154,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ук’к’эм, к’эмэн’ы; (пища) роолк’ыл</t>
+				<t>ук’к’эм, к’эмэн’ы; (пища) роолк’ыл</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">сав5а</t>
+				<t>сав5а</t>
 			</tg>
 		</mg>
 	</e>
@@ -1169,10 +1169,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пытвыкойнын, рыраткойн’ын, плютче</t>
+				<t>пытвыкойнын, рыраткойн’ын, плютче</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">сускэдалбэ</t>
+				<t>сускэдалбэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1183,7 +1183,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">хойл</t>
+				<t>хойл</t>
 			</tg>
 		</mg>
 	</e>
@@ -1194,7 +1194,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx"> гаймычьын, агногыргын</t>
+				<t> гаймычьын, агногыргын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1205,12 +1205,12 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(имущий) гаймычъылъын</t>
+				<t>(имущий) гаймычъылъын</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(улов,   добыча)   мыкыльын,   гаймэтывальын</t>
+				<t>(улов,   добыча)   мыкыльын,   гаймэтывальын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1221,7 +1221,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">катгогты   вальын,   армачьэты вальын, аройвэты вальын</t>
+				<t>катгогты   вальын,   армачьэты вальын, аройвэты вальын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1233,10 +1233,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">  кэтгульын,   эрмэчьын,   аройвыльын</t>
+				<t>  кэтгульын,   эрмэчьын,   аройвыльын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">вэрвийиэ</t>
+				<t>вэрвийиэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1247,7 +1247,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гаймычьыльын</t>
+				<t>гаймычьыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1258,7 +1258,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ныкитпыкин, к’итпыльын</t>
+				<t>ныкитпыкин, к’итпыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1269,7 +1269,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">маравкэн; (удалой) нэнк’ивк’ин</t>
+				<t>маравкэн; (удалой) нэнк’ивк’ин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1280,7 +1280,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">маравк’лявыл, пойгыльын</t>
+				<t>маравк’лявыл, пойгыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1291,7 +1291,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">марав, мараквыргын</t>
+				<t>марав, мараквыргын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1302,7 +1302,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">гытолгын, гыточгын</t>
+				<t>гытолгын, гыточгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1314,10 +1314,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тъычгыргын ; а'ргыргын</t>
+				<t>тъычгыргын ; а'ргыргын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йуодьэн</t>
+				<t>йуодьэн</t>
 			</tg>
 		</mg>
 	</e>
@@ -1329,10 +1329,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тъылык ; а'ратык</t>
+				<t>тъылык ; а'ратык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йоой-</t>
+				<t>йоой-</t>
 				<t>pos="xxx" person="3-е л"мэ йоойм</t>
 			</tg>
 		</mg>
@@ -1344,7 +1344,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">илылкын, эюлк’ын</t>
+				<t>илылкын, эюлк’ын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1355,7 +1355,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">сукинь пэдугиэнуй</t>
+				<t>сукинь пэдугиэнуй</t>
 			</tg>
 		</mg>
 	</e>
@@ -1367,10 +1367,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">малявран</t>
+				<t>малявран</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">амахаанубэ</t>
+				<t>амахаанубэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1381,7 +1381,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тъылеты, нытъыльэв</t>
+				<t>тъылеты, нытъыльэв</t>
 			</tg>
 		</mg>
 	</e>
@@ -1393,13 +1393,13 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тъытльэн; агратыльын</t>
+				<t>тъытльэн; агратыльын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йоойэ кодэ</t>
+				<t>йоойэ кодэ</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йуодьэндьэрукун</t>
+				<t>йуодьэндьэрукун</t>
 			</tg>
 		</mg>
 	</e>
@@ -1410,12 +1410,12 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(по количеству) мыкын’</t>
+				<t>(по количеству) мыкын’</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(по величине) майын’кын’</t>
+				<t>(по величине) майын’кын’</t>
 			</tg>
 		</mg>
 	</e>
@@ -1426,7 +1426,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">мыкычьын</t>
+				<t>мыкычьын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1438,22 +1438,22 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(по величине) нымэйьын’к’ин</t>
+				<t>(по величине) нымэйьын’к’ин</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(громоздкий,  широкий)  нытопык’эн</t>
+				<t>(громоздкий,  широкий)  нытопык’эн</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(ёмкий) ныпытъук’ин</t>
+				<t>(ёмкий) ныпытъук’ин</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">чамуонь</t>
+				<t>чамуонь</t>
 			</tg>
 		</mg>
 	</e>
@@ -1464,7 +1464,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тэйкэвыльын</t>
+				<t>тэйкэвыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1475,7 +1475,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">валк’ылыргын</t>
+				<t>валк’ылыргын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1486,7 +1486,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">чалдьэрускэ</t>
+				<t>чалдьэрускэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1497,7 +1497,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тэйкэвык</t>
+				<t>тэйкэвык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1508,7 +1508,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(лодки) ы'твыгтолгын</t>
+				<t>(лодки) ы'твыгтолгын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1519,7 +1519,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тайкаквыргын, тэйкэв</t>
+				<t>тайкаквыргын, тэйкэв</t>
 			</tg>
 		</mg>
 	</e>
@@ -1531,10 +1531,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эплеккэ</t>
+				<t>эплеккэ</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">ахчагуол</t>
+				<t>ахчагуол</t>
 			</tg>
 		</mg>
 	</e>
@@ -1545,7 +1545,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эплеккыльин</t>
+				<t>эплеккыльин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1556,7 +1556,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">уттэмыгэн</t>
+				<t>уттэмыгэн</t>
 			</tg>
 		</mg>
 	</e>
@@ -1567,7 +1567,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">э'к’элин’этык, айылгавык</t>
+				<t>э'к’элин’этык, айылгавык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1578,7 +1578,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">монорэл</t>
+				<t>монорэл</t>
 			</tg>
 		</mg>
 	</e>
@@ -1589,7 +1589,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">э'йн’эльэтык, тъарын’ык</t>
+				<t>э'йн’эльэтык, тъарын’ык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1600,7 +1600,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">йичьэмиттумгын;   (старший)  ынинэльын,   ынъы;   (младший)  ытлен’и</t>
+				<t>йичьэмиттумгын;   (старший)  ынинэльын,   ынъы;   (младший)  ытлен’и</t>
 			</tg>
 		</mg>
 	</e>
@@ -1611,7 +1611,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">йичьэмрэткин</t>
+				<t>йичьэмрэткин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1622,7 +1622,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">томгыльатгыргын</t>
+				<t>томгыльатгыргын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1634,10 +1634,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пирик, эймитык</t>
+				<t>пирик, эймитык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">мэнь-</t>
+				<t>мэнь-</t>
 				<t pos="xxx" person="3">мэ мэндьим</t>
 			</tg>
 		</mg>
@@ -1649,7 +1649,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йэрэмэ</t>
+				<t>йэрэмэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1660,7 +1660,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">бригада</t>
+				<t>бригада</t>
 			</tg>
 			<xg>
 				<x>оленеводческая бригада</x>
@@ -1676,10 +1676,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">рэлвылгын, рилвын</t>
+				<t>рэлвылгын, рилвын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йодии пурэврэ пугучэ</t>
+				<t>йодии пурэврэ пугучэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1690,7 +1690,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">чейвыткук;    (по воде) пиючитык</t>
+				<t>чейвыткук;    (по воде) пиючитык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1702,10 +1702,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ринтык, тэгрык; (за ненадобностью) рычаатвавык</t>
+				<t>ринтык, тэгрык; (за ненадобностью) рычаатвавык</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">суусээй-</t>
+				<t>суусээй-</t>
 				<t pos="xxx" person="3-е л">мэ суусээйм</t>
 			</tg>
 		</mg>
@@ -1717,7 +1717,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">пэнрыткок, лювлетык; (в сторону) таск’ычатык</t>
+				<t>пэнрыткок, лювлетык; (в сторону) таск’ычатык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1728,7 +1728,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">вэривычьын</t>
+				<t>вэривычьын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1740,10 +1740,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">к’онагтэ, манэк’онагтэ</t>
+				<t>к’онагтэ, манэк’онагтэ</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">туурии</t>
+				<t>туурии</t>
 			</tg>
 		</mg>
 	</e>
@@ -1754,7 +1754,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">вэнивэн, к’он’к’он</t>
+				<t>вэнивэн, к’он’к’он</t>
 			</tg>
 		</mg>
 	</e>
@@ -1765,7 +1765,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">рыгъевык</t>
+				<t>рыгъевык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1776,7 +1776,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">кэйгудэ эдьил</t>
+				<t>кэйгудэ эдьил</t>
 			</tg>
 		</mg>
 	</e>
@@ -1787,7 +1787,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">вальылк’ыл, рымагтыкэн</t>
+				<t>вальылк’ыл, рымагтыкэн</t>
 			</tg>
 		</mg>
 	</e>
@@ -1798,7 +1798,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">буква</t>
+				<t>буква</t>
 			</tg>
 		</mg>
 	</e>
@@ -1809,7 +1809,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тын’эчьынкылвэт</t>
+				<t>тын’эчьынкылвэт</t>
 			</tg>
 		</mg>
 	</e>
@@ -1820,7 +1820,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">элгыкавкав, элгычокар, элгык’леван, к’рэвытрын</t>
+				<t>элгыкавкав, элгычокар, элгык’леван, к’рэвытрын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1832,10 +1832,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ыпан’ы</t>
+				<t>ыпан’ы</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">пунэ</t>
+				<t>пунэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -1846,7 +1846,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">комак, мэнигытъул</t>
+				<t>комак, мэнигытъул</t>
 			</tg>
 		</mg>
 	</e>
@@ -1857,7 +1857,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">комакэн, мэнигин</t>
+				<t>комакэн, мэнигин</t>
 			</tg>
 		</mg>
 	</e>
@@ -1868,7 +1868,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ы'лпэн’аёо, пэн’апылмыпыл</t>
+				<t>ы'лпэн’аёо, пэн’апылмыпыл</t>
 			</tg>
 		</mg>
 	</e>
@@ -1879,7 +1879,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">нувк’ин; бурый медведь  кэйн’ын</t>
+				<t>нувк’ин; бурый медведь  кэйн’ын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1890,7 +1890,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ёо, пэн’аёо</t>
+				<t>ёо, пэн’аёо</t>
 			</tg>
 		</mg>
 	</e>
@@ -1902,10 +1902,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кылылет, и'нничгын</t>
+				<t>кылылет, и'нничгын</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">йадарха</t>
+				<t>йадарха</t>
 			</tg>
 		</mg>
 	</e>
@@ -1916,7 +1916,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">  тэнмэмлыёчгын,   тинук’к’эм,   вутирка</t>
+				<t>  тэнмэмлыёчгын,   тинук’к’эм,   вутирка</t>
 			</tg>
 		</mg>
 	</e>
@@ -1927,7 +1927,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx"> к’уйым</t>
+				<t> к’уйым</t>
 			</tg>
 		</mg>
 	</e>
@@ -1938,7 +1938,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx"> (о ветре) ёо'льатык;  (о море) эйычгитык</t>
+				<t> (о ветре) ёо'льатык;  (о море) эйычгитык</t>
 			</tg>
 		</mg>
 	</e>
@@ -1949,7 +1949,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">эвыр-ым</t>
+				<t>эвыр-ым</t>
 			</tg>
 		</mg>
 	</e>
@@ -1960,7 +1960,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">тыркыльын</t>
+				<t>тыркыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -1972,7 +1972,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ныйык’ъэв, гаглеты</t>
+				<t>ныйык’ъэв, гаглеты</t>
 			</tg>
 			<tg xml:lang="ykg">
 				<t pos="нареч">амдур</t>
@@ -1986,7 +1986,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">йык’ытылельын,  инъыльын, нинъык’ин, нымытлёк’эн</t>
+				<t>йык’ытылельын,  инъыльын, нинъык’ин, нымытлёк’эн</t>
 			</tg>
 		</mg>
 	</e>
@@ -1998,10 +1998,10 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">ныйкык’ин,   ныгаглык’эн, ныкиврикин; (в  беге) нинъык’ин,  нымытлёк'эн</t>
+				<t>ныйкык’ин,   ныгаглык’эн, ныкиврикин; (в  беге) нинъык’ин,  нымытлёк'эн</t>
 			</tg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">чугуонь</t>
+				<t>чугуонь</t>
 			</tg>
 		</mg>
 	</e>
@@ -2013,17 +2013,17 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(находиться) вак; быть здесь н’утку вак</t>
+				<t>(находиться) вак; быть здесь н’утку вак</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">(кем) итык; быть учителем учителё итык</t>
+				<t>(кем) итык; быть учителем учителё итык</t>
 			</tg>
 		</mg>
 		<mg>
 			<tg xml:lang="ykg">
-				<t pos="xxx">льэ-</t>
+				<t>льэ-</t>
 				<t pos="xxx" person="3-е л">мэ льэй</t>
 			</tg>
 		</mg>
