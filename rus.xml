@@ -485,12 +485,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бахрома</l>
+			<l pos="n" gender="f">Бахрома</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>нэлльийэ</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Franse</t>
 			</tg>
 		</mg>
 	</e>
@@ -605,15 +608,18 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бедро</l>
+			<l pos="n" gender="n">Бедро</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>нигириидамун</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t>(часть ноги) Schenkel, Oberschenkel; (бок) Hüfte</t>
+			</tg>
 		</mg>
-	</e>
+		</e>
 	<e>
 		<lg>
 			<l pos="v">бежать</l>
@@ -626,7 +632,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>олкэ-</t>
-				<t pos="xxx" person="3-е л">мэр олкэй</t>
+				<t person="3">мэр олкэй</t>
 			</tg>
 		</mg>
 	</e>
@@ -659,7 +665,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Безвкусный</l>
+			<l pos="a" gender="m">Безвкусный</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
@@ -693,12 +699,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Белизна</l>
+			<l pos="n" gender="f">Белизна</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>ньаавийэ</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t>Weiße, Weiß</t>
 			</tg>
 		</mg>
 	</e>
@@ -821,12 +830,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Береста</l>
+			<l pos="n" gender="f">Береста</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>йаарава</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Birkenrinde</t>
 			</tg>
 		</mg>
 	</e>
@@ -913,12 +925,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бессоница</l>
+			<l pos="n" gender="f">Бессонница</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>аавэл эвльэ</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Schlaflosigkeit</t>
 			</tg>
 		</mg>
 	</e>
@@ -1004,7 +1019,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>льитэгэс-</t>
-				<t>pos="xxx" person="3-е л"мэ льитэгэсум</t>
+				<t person="3">мэ льитэгэсум</t>
 			</tg>
 		</mg>
 	</e>
@@ -1072,7 +1087,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>подьа5а-</t>
-				<t>pos="xxx" person="3-е л"мэ подьа5ай</t>
+				<t person="3">мэ подьа5ай</t>
 			</tg>
 		</mg>
 	</e>
@@ -1137,12 +1152,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Блоха</l>
+			<l pos="n" gender="f">Блоха</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>кодьэ</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Floh</t>
 			</tg>
 		</mg>
 	</e>
@@ -1178,12 +1196,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бог</l>
+			<l pos="n" gender="m">Бог</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>хойл</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Gott</t>
 			</tg>
 		</mg>
 	</e>
@@ -1333,7 +1354,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>йоой-</t>
-				<t>pos="xxx" person="3-е л"мэ йоойм</t>
+				<t person="3">мэ йоойм</t>
 			</tg>
 		</mg>
 	</e>
@@ -1350,15 +1371,23 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Болтать</l>
+			<l pos="v">Болтать</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>сукинь пэдугиэнуй</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t>(разг.) plaudern, schwatzen, plappern</t>
+			</tg>
 		</mg>
-	</e>
+		<mg>
+			<tg xml:lang="deu">
+				<t>(размешивать) rühren; (двигать) baumeln</t>
+			</tg>
+		</mg>
+		</e>
 	<e>
 		<lg>
 			<l pos="n" gender="f">больница</l>
@@ -1481,12 +1510,15 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бородавка</l>
+			<l pos="n" gender="f">Бородавка</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>чалдьэрускэ</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Warze</t>
 			</tg>
 		</mg>
 	</e>
@@ -1573,12 +1605,20 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Брак</l>
+			<l pos="n" gender="m">Брак</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>монорэл</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Ehe</t>
+			</tg>
+		</mg>
+	<mg>
+			<tg xml:lang="deu">
+				<t>Ausschuss</t>
 			</tg>
 		</mg>
 	</e>
@@ -1638,18 +1678,21 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>мэнь-</t>
-				<t pos="xxx" person="3">мэ мэндьим</t>
+				<t person="3">мэ мэндьим</t>
 			</tg>
 		</mg>
 	</e>
 	<e>
 		<lg>
-			<l pos="xxx">Бревно</l>
+			<l pos="n" gender="n">Бревно</l>
 			<lexsample>Rus800</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ykg">
 				<t>йэрэмэ</t>
+			</tg>
+		<tg xml:lang="deu">
+				<t>Holzstamm, Balken (обтёсанное); (спорт.) Schwebebalken</t>
 			</tg>
 		</mg>
 	</e>
@@ -1706,7 +1749,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 			</tg>
 			<tg xml:lang="ykg">
 				<t>суусээй-</t>
-				<t pos="xxx" person="3-е л">мэ суусээйм</t>
+				<t person="3">мэ суусээйм</t>
 			</tg>
 		</mg>
 	</e>
@@ -1734,7 +1777,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="n" gender="m" number="pltantum">брюки</l>
+			<l pos="n" number="pltantum">брюки</l>
 			<lexsample>Rus800</lexsample>
 			<lexsample>Rus3500</lexsample>
 		</lg>
@@ -1896,7 +1939,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 	</e>
 	<e>
 		<lg>
-			<l pos="n" gender="xxx" number="pltantum">бусы</l>
+			<l pos="n" number="pltantum">бусы</l>
 			<lexsample>Rus800</lexsample>
 			<lexsample>Rus3500</lexsample>
 		</lg>
@@ -2024,7 +2067,7 @@ This is a preliminary version, which has to be cleaned up further. Note especial
 		<mg>
 			<tg xml:lang="ykg">
 				<t>льэ-</t>
-				<t pos="xxx" person="3-е л">мэ льэй</t>
+				<t person="3">мэ льэй</t>
 			</tg>
 		</mg>
 	</e>
