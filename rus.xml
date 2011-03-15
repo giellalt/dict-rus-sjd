@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-This is a preliminary version. Some elements contain different kind of informations, this has to be cleaned up.
+This is a preliminary version, which has to be cleaned up further. Note especially that some elements still contain more than one kind of information, and that the meaning groups of several entries with ckt and ykg translations are not properly matched.
 -->
 
 <r xml:lang="rus">
 	<e>
 		<lg>
-			<l pos="conj">а</l>
+			<l pos="cs">а</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -41,14 +41,16 @@ This is a preliminary version. Some elements contain different kind of informati
 	<e>
 		<lg>
 			<l pos="a" gender="m">автономный</l>
-			<l pos="a" gender="f">автономная</l>
-			<l pos="a" gender="n">автономное</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">автономныкэн; Чукотский автономный округ Чукоткакэн автономныкэн округ</t>
+				<t pos="xxx">автономныкэн</t>
 			</tg>
+			<xg>
+				<x>Чукотский автономный округ</x>
+				<xt xml:lang="ckt">Чукоткакэн автономныкэн округ</xt>
+			</xg>
 		</mg>
 	</e>
 	<e>
@@ -92,8 +94,6 @@ This is a preliminary version. Some elements contain different kind of informati
 	<e>
 		<lg>
 			<l pos="a" gender="m">аккуратный</l>
-			<l pos="a" gender="f">аккуратная</l>
-			<l pos="a" gender="n">аккуратное</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -116,8 +116,6 @@ This is a preliminary version. Some elements contain different kind of informati
 	<e>
 		<lg>
 			<l pos="a" gender="m">активный</l>
-			<l pos="a" gender="f">активная</l>
-			<l pos="a" gender="n">активное</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -144,20 +142,22 @@ This is a preliminary version. Some elements contain different kind of informati
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">алфавит; напиши по алфавиту кыкэлигынэт алфавитыгъет</t>
+				<t pos="xxx">алфавит</t>
 			</tg>
+			<xg>
+				<x>напиши по алфавиту</x>
+				<xt xml:lang="ckt">кыкэлигынэт алфавитыгъет</xt>
+			</xg>
 		</mg>
 	</e>
 	<e>
 		<lg>
 			<l pos="a" gender="m">алый</l>
-			<l pos="a" gender="f">алая</l>
-			<l pos="a" gender="n">алое</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">кытчелгыльын. лыгэчелгыльын</t>
+				<t pos="xxx">кытчелгыльын, лыгэчелгыльын</t>
 			</tg>
 		</mg>
 	</e>
@@ -260,11 +260,15 @@ This is a preliminary version. Some elements contain different kind of informati
 		</lg>
 		<mg>
 			<tg xml:lang="ckt">
-				<t pos="xxx">армия, мараврат; Советская Армия Советкэн Армия</t>
+				<t pos="xxx">армия, мараврат</t>
 			</tg>
+			<xg>
+				<x>Советская Армия</x>
+				<xt xml:lang="ckt">Советкэн Армия</xt>
+			</xg>
 		</mg>
 	</e>
-		<e>
+	<e>
 		<lg>
 			<l pos="n" gender="m">Аромат</l>
 			<lexsample>Rus800</lexsample>
@@ -278,8 +282,6 @@ This is a preliminary version. Some elements contain different kind of informati
 	<e>
 		<lg>
 			<l pos="a" gender="m">ароматный</l>
-			<l pos="a" gender="f">ароматная</l>
-			<l pos="a" gender="n">ароматное</l>
 			<lexsample>Rus3500</lexsample>
 		</lg>
 		<mg>
@@ -340,6 +342,1689 @@ This is a preliminary version. Some elements contain different kind of informati
 		<mg>
 			<tg xml:lang="ckt">
 				<t pos="xxx">аэропорт, рэн’анан’ытван</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бабочка</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">к’опалготкочьын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кичиэн валмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бабушка</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эпэк’эй, н’эвмиргык’эй</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">абучиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">багаж</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">рыляйвыё, рынрыё, инэн, имыт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">багор [мн. багры]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">черунэн’</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бак</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эмлыёчгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">баловаться</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">к’ун’ычгэтык, кумъэрик, гичивэтык, тэгычгэнатык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">айдарэйк</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">банка</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пувтын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">баня</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">злгытавран</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">барабан</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">барабан, ярар</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">барабанить</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ярарыткок</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(стучать) кыпчыткок</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">баран</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кытэпалгын; (домашний) яракытэпалгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бахрома</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нэлльийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">баюкать</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кынильэтык, рильэтык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бег</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(человека) кытгынтатгыргын, кыляквыргын; (животного) э'рамъятгыргын, пак’ыткогыргын</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бегать</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(о человеке) кытгынтатык, кылявык, кычавычьатык, кытгынтыръок; (о животном) и'рэмъетык, пэк’ыткук, ръилек</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">бегом</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кытгынта, кылява, ръилетэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэрэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">беда [тн. беды]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">а'к’агыргын, а' к’алтатгыргьш</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">бедно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">н’ъогты</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бедный</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(неимущий)   нъольын</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(жалкий) яйвачгыргын</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл нэмэньэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бедняк</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">т н’ъочьын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бедро</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">нигириидамун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бежать</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кытгынтатык,   кылявык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">олкэ-</t>
+				<t pos="xxx" person="3-е л">мэр олкэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pr">без</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">э-/а-~-кэ/-ка</t>
+			</tg>
+			<xg>
+				<x>без   товарища</x>
+				<xt xml:lang="ckt">этумгыкэ</xt>
+			</xg>
+			<xg>
+				<x>без  оленя</x>
+				<xt xml:lang="ckt">ак’орака</xt>
+			</xg>
+			<xg>
+				<x>без  дяди</x>
+				<xt xml:lang="ckt">ынйивкэ</xt>
+			</xg>
+			<xg>
+				<x>без тепла</x>
+				<xt xml:lang="ckt">омомка</xt>
+			</xg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Безвкусный</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">эл амуо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">беззащитный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвиринкылыга, эйилюкыльин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">безударный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<xg xml:lang="ckt">
+				<x>безударный слог</x>
+				<xt xml:lang="ckt">гтытвыкыльэн вэтгавчывэпыт</xt>
+			</xg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Белизна</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаавийэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">белка</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">равыльэн</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йорчибэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">белуха</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пурэк</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">белый</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нилгык’ин, илгыльын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньаавэй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n" number="sgtantum">бельё</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвычанэръын, эвычан’авэръын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">берег [мн. берега]</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гычурмын; (мбря) ан’к’ачормын; (реки) вээмчурмын</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">а5адуоль</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бережливый</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нэмкумъык’ин, ныгтамк’эн, ныгынрырк’ин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">бережно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нэмкумъэв, ныгтамъав</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">беречь</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гытамо лынык, эмкумъу лын’ык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">берёза</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">вылгил</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаа саал</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Береста</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йаарава</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">берлога</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кайн’ыран</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">беседа</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пычвэтгав</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ньиэдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">беседовать</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пычвэтгавык, вэтгаквылгык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">бесплатно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвилкэ,   эркуркэ,    амынгыквыка, аманэка</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бесплатный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвилкыльин, эвилкы вальын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">беспокоиться</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пэгчин’этык, линтъыльык; (о ком-л.) пэгчин’у лын’ык, линтъылю лын’ык; вести себя беспокойно аромкатык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">беспощадный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эейвэчкыльин,  элин’кыльин, тэрмэчьын’ыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бессоница</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">аавэл эвльэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бесстрашный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">э'кэлин’кыльин, айылгыкыльэн, элинвиттыкыльин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">бесшумно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвыргыргыкэ, акаврыткыка</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">билет</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">билет</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бинокль</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гитэнэн’</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бинт</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">инэнкылвэтичгьга, инэнкылтичгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">битва</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">  мараквыргын,   эрвывылгыгыргын;</t>
+			</tg>
+			<xg>
+				<x>битва  за  Москву</x>
+				<xt xml:lang="ckt">эрвывылгыгыргын  Москвак к’ача</xt>
+			</xg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бить (кого-л.)</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">таляйвык, кыпчевык; (что-л.) рымчеэръавык, рычимиръэвык, рыкавчеэръавык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льитэгэс-</t>
+				<t>pos="xxx" person="3-е л"мэ льитэгэсум</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">биться</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(драться) мараввылгык;   (о  чём-л.)  к’авчеэръатык,   чимиръэтык, мычеэръатык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">благодарить</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">рырэк’улымн’эвык,   рывэлынкык’УВЫК</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пасииваа</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бледный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пъачьо,  пъачьольын,  илгыльульын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m" number="sgtantum">блеск</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">к’элпэран,  к’элпэрагыргын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">подьарха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">блестеть</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кэлпэрак, тыкильэтык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">подьа5а-</t>
+				<t>pos="xxx" person="3-е л"мэ подьа5ай</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">блестящий</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кэлпэральын,  нытк’илк’ин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">ближе</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">чымчан’</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">наречие эйуокэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">близиться</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эймэвык, чымчан’ нъэлык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">близкий</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">чымчекин ; (о родственнике) чиниткин, чычеткин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">близко</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">чымче</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Блоха</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кодьэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n">блюдо [мн.  блюда]</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ук’к’эм, к’эмэн’ы; (пища) роолк’ыл</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сав5а</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n">блюдце [мн. блюдца]</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пытвыкойнын, рыраткойн’ын, плютче</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сускэдалбэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бог</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">хойл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n">богатство</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx"> гаймычьын, агногыргын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">богатый</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(имущий) гаймычъылъын</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(улов,   добыча)   мыкыльын,   гаймэтывальын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">богатырский</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">катгогты   вальын,   армачьэты вальын, аройвэты вальын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">богатырь</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">  кэтгульын,   эрмэчьын,   аройвыльын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">вэрвийиэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">богач</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гаймычьыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">бодрый</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ныкитпыкин, к’итпыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a" gender="m">боевой</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">маравкэн; (удалой) нэнк’ивк’ин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">боец [мн. бойцы]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">маравк’лявыл, пойгыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бой [мн. бой]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">марав, мараквыргын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бок [мн. бока]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">гытолгын, гыточгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">болезнь</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тъычгыргын ; а'ргыргын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодьэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">болеть</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тъылык ; а'ратык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоой-</t>
+				<t>pos="xxx" person="3-е л"мэ йоойм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n">болото [мн. болота]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">илылкын, эюлк’ын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Болтать</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">сукинь пэдугиэнуй</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">больница</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">малявран</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">амахаанубэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">больно</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тъылеты, нытъыльэв</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">больной</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тъытльэн; агратыльын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йоойэ кодэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йуодьэндьэрукун</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">больше</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(по количеству) мыкын’</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(по величине) майын’кын’</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n" number="sgtantum"> большинство</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">мыкычьын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">большой</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(по величине) нымэйьын’к’ин</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(громоздкий,  широкий)  нытопык’эн</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(ёмкий) ныпытъук’ин</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чамуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">борец [мн. борцы]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тэйкэвыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">борода [мн. бороды]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">валк’ылыргын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бородавка</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чалдьэрускэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бороться</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тэйкэвык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">борт [мн. борта]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(лодки) ы'твыгтолгын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f" number="sgtantum">борьба</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тайкаквыргын, тэйкэв</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">босиком</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эплеккэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">ахчагуол</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">босой</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эплеккыльин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бабочка</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">уттэмыгэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бояться</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">э'к’элин’этык, айылгавык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Брак</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">монорэл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бранить</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">э'йн’эльэтык, тъарын’ык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">брат [мн. братья]</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">йичьэмиттумгын;   (старший)  ынинэльын,   ынъы;   (младший)  ытлен’и</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">братский</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">йичьэмрэткин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="n" number="sgtantum">братство</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">томгыльатгыргын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">брать</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пирик, эймитык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">мэнь-</t>
+				<t pos="xxx" person="3">мэ мэндьим</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="xxx">Бревно</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йэрэмэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бригада</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">бригада</t>
+			</tg>
+			<xg>
+				<x>оленеводческая бригада</x>
+				<xt xml:lang="ckt">к’орагынрэтбригада</xt>
+			</xg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бровь</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">рэлвылгын, рилвын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йодии пурэврэ пугучэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бродить</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">чейвыткук;    (по воде) пиючитык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бросить</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ринтык, тэгрык; (за ненадобностью) рычаатвавык</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">суусээй-</t>
+				<t pos="xxx" person="3-е л">мэ суусээйм</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">броситься</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">пэнрыткок, лювлетык; (в сторону) таск’ычатык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f" number="sgtantum">брусника</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">вэривычьын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m" number="pltantum">брюки</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">к’онагтэ, манэк’онагтэ</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">туурии</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бубенчик</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">вэнивэн, к’он’к’он</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">будить</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">рыгъевык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">Будущее</l>
+			<lexsample>Rus800</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">кэйгудэ эдьил</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">будущий</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">вальылк’ыл, рымагтыкэн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">буква</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">буква</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">букет</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тын’эчьынкылвэт</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">булка</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">элгыкавкав, элгычокар, элгык’леван, к’рэвытрын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бульон</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ыпан’ы</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">пунэ</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f" number="sgtantum">бумага</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">комак, мэнигытъул</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">бумажный</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">комакэн, мэнигин</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">буран</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ы'лпэн’аёо, пэн’апылмыпыл</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">бурый</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">нувк’ин; бурый медведь  кэйн’ын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">буря</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ёо, пэн’аёо</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="xxx" number="pltantum">бусы</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">кылылет, и'нничгын</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">йадарха</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бутылка</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">  тэнмэмлыёчгын,   тинук’к’эм,   вутирка</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="f">бухта</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx"> к’уйым</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">бушевать</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx"> (о ветре) ёо'льатык;  (о море) эйычгитык</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="pcle">бы</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">эвыр-ым</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="n" gender="m">бык</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">тыркыльын</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="adv">быстро</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ныйык’ъэв, гаглеты</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="нареч">амдур</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">быстроногий</l>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">йык’ытылельын,  инъыльын, нинъык’ин, нымытлёк’эн</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="a">быстрый</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">ныйкык’ин,   ныгаглык’эн, ныкиврикин; (в  беге) нинъык’ин,  нымытлёк'эн</t>
+			</tg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">чугуонь</t>
+			</tg>
+		</mg>
+	</e>
+	<e>
+		<lg>
+			<l pos="v">быть</l>
+			<lexsample>Rus800</lexsample>
+			<lexsample>Rus3500</lexsample>
+		</lg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(находиться) вак; быть здесь н’утку вак</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ckt">
+				<t pos="xxx">(кем) итык; быть учителем учителё итык</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg xml:lang="ykg">
+				<t pos="xxx">льэ-</t>
+				<t pos="xxx" person="3-е л">мэ льэй</t>
 			</tg>
 		</mg>
 	</e>
