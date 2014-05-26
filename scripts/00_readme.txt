@@ -1,4 +1,7 @@
 
+
+NB: the xml output can be easly and transparently tranformed into a simple HTML format!
+
 1. adjust the in/out-paths in the script
 my $inFile = 'gogo_input/Tarjentsj_RU_SA_1.A.csv';
 my $outFile = 'o_put.xml';
@@ -69,9 +72,15 @@ PERL_UNICODE=SAD perl csv2xml_rus2sjd.pl
 
 Each field is debuggable with a simple grep:
 
+scripts>g '<p id="2">' o_put.xml |sort|uniq -c|sort -nr
+ 768     <p id="2">_xxx_2</p>
+   1     <p id="2">По-русски (grundform)</p>
 
+ ==> there is no value for field 2
 
+scripts>g '<p id="16">' o_put.xml |sort|uniq -c|sort -nr
+ 768     <p id="16">_xxx_16</p>
+   1     <p id="16">Пример са̄мас 4 (exempel Sa 4)</p>
 
-
-
+ ==> there is no value for field 16
 
