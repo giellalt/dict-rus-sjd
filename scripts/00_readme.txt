@@ -84,3 +84,10 @@ scripts>g '<p id="16">' o_put.xml |sort|uniq -c|sort -nr
 
  ==> there is no value for field 16
 
+=================================================
+
+script for field content checking:
+
+run on the command line: no in/out-files
+PERL_UNICODE=SAD perl field-check_csv2xml_rus2sjd.pl gogo_input/Tarjentsj_RU_SA_1.A.csv > gogo.xml
+
