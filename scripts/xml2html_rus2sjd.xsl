@@ -62,121 +62,165 @@
           </head>
           <body>	    
 	    <xsl:for-each select="./r/e">
-	      <div style="margin-left:1.1em;text-indent:-1.1em">
+	      <xsl:variable name="current_e" select="."/>
+
+	      <xsl:variable name="e_head">
+		<xsl:variable name="all_l">
+		  <xsl:for-each select="./p">
+		    <xsl:if test="position()&lt;3">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of
+			    select="concat(normalize-space(.), ', ')"/>
+		      </xsl:if>
+		    </xsl:if>
+		  </xsl:for-each>
+		</xsl:variable>
+
+		<all>
+		  <xsl:for-each select="tokenize(translate($all_l,
+					',',';'), ';')">
+		    <xsl:if test="not(normalize-space(.)='')">
+		    <l>
+		      <xsl:value-of select="normalize-space(.)"/>
+		    </l>
+		    </xsl:if>
+		  </xsl:for-each>
+		</all>
+	      </xsl:variable>
+	      
+	      <xsl:variable name="e_body">
 		<xsl:for-each select="./p">
-		  <xsl:if test="position()=1">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		    <b>
-		      <xsl:value-of select="normalize-space(.)"/>
-		    </b>
+		    <xsl:if test="position()=3">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<i>
+			  <xsl:value-of select="concat(' ', normalize-space(.))"/>
+			</i>
+		      </xsl:if>
+		      
+		      <!-- pil til høyre: grense mellom rus og sjd -->
+		      <xsl:value-of select="concat(' ',  $rarrow, ' ')"/>
+		      
 		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=2">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		    <b>
-		      <xsl:value-of select="normalize-space(.)"/>
-		    </b>
-		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=3">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <i>
-			<xsl:value-of select="concat(' ', normalize-space(.))"/>
-		      </i>
-		    </xsl:if>
-
-		    <!-- pil til høyre: grense mellom rus og sjd -->
-		    <xsl:value-of select="concat(' ',  $rarrow, ' ')"/>
 		    
-		  </xsl:if>
-		  
-		  <xsl:if test="position()=4">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ', normalize-space(.))"/>
+		    <xsl:if test="position()=4">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ', normalize-space(.))"/>
+		      </xsl:if>
 		    </xsl:if>
-		  </xsl:if>
-		  
-		  <xsl:if test="position()=5">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ', normalize-space(.))"/>
+		    
+		    <xsl:if test="position()=5">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ', normalize-space(.))"/>
+		      </xsl:if>
 		    </xsl:if>
-		  </xsl:if>
-		  
-		  <xsl:if test="(position() &gt; 5) and 
-				(position() &lt; 9)">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ', normalize-space(.))"/>
+		    
+		    <xsl:if test="(position() &gt; 5) and 
+				  (position() &lt; 9)">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ', normalize-space(.))"/>
+		      </xsl:if>
 		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=9">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <br/>
-		      <b>
-			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
-		      </b>
+		    
+		    <xsl:if test="position()=9">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<br/>
+			<b>
+			  <xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+			</b>
+		      </xsl:if>
 		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=10">
-		    <xsl:if test="not(contains(., '_xxx_'))">
+		    
+		    <xsl:if test="position()=10">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ',
+					      normalize-space(.))"/>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=11">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<br/>
+			<b>
+			  <xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+			</b>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=12">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ',
+					      normalize-space(.))"/>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=13">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<br/>
+			<b>
+			  <xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+			</b>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=14">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<xsl:value-of select="concat(' ',
+					      normalize-space(.))"/>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=15">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<br/>
+			<b>
+			  <xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+			</b>
+		      </xsl:if>
+		    </xsl:if>
+		    
+		    <xsl:if test="position()=16">
+		      <xsl:if test="not(contains(., '_xxx_'))">
 		      <xsl:value-of select="concat(' ',
 					    normalize-space(.))"/>
 		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=11">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <br/>
-		      <b>
-			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
-		      </b>
 		    </xsl:if>
-		  </xsl:if>
+		    
+		  </xsl:for-each>
+	      </xsl:variable>
 
-		  <xsl:if test="position()=12">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ',
-					    normalize-space(.))"/>
-		    </xsl:if>
-		  </xsl:if>
 
-		  <xsl:if test="position()=13">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <br/>
-		      <b>
-			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
-		      </b>
+	      <!--xsl:variable name="e_head">
+		
+		  <xsl:for-each select="./p">
+		    <xsl:if test="position()=1">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<b>
+			  <xsl:value-of select="normalize-space(.)"/>
+			</b>
+		      </xsl:if>
 		    </xsl:if>
-		  </xsl:if>
+		    
+		    <xsl:if test="position()=2">
+		      <xsl:if test="not(contains(., '_xxx_'))">
+			<b>
+			  <xsl:value-of select="normalize-space(.)"/>
+			</b>
+		      </xsl:if>
+		    </xsl:if>
+		  </xsl:for-each>
+	      </xsl:variable-->
 
-		  <xsl:if test="position()=14">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ',
-					    normalize-space(.))"/>
-		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=15">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <br/>
-		      <b>
-			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
-		      </b>
-		    </xsl:if>
-		  </xsl:if>
-
-		  <xsl:if test="position()=16">
-		    <xsl:if test="not(contains(., '_xxx_'))">
-		      <xsl:value-of select="concat(' ',
-					    normalize-space(.))"/>
-		    </xsl:if>
-		  </xsl:if>
+	      <xsl:for-each select="$e_head/all/l">
+		<div style="margin-left:1.1em;text-indent:-1.1em">
+		  <b>
+		    <xsl:value-of select="concat(normalize-space(.),
+					  ' ')"/>
+		  </b>
 		  
-		</xsl:for-each>
-	      </div>
+		  <xsl:copy-of select="$e_body"/>
+		</div>
+	      </xsl:for-each>
+	      
 	    </xsl:for-each>
 	  </body>
 	</html>
