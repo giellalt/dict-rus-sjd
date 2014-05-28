@@ -16,17 +16,25 @@
 	      encoding="UTF-8"
 	      omit-xml-declaration="no"
 	      indent="yes"/>
+
   <xsl:output method="text" name="txt"
               encoding="UTF-8"/>
 
+  <xsl:output method="html" name="html"
+              encoding="UTF-8"
+              version="4.0"
+              indent="yes"/>
+
   <xsl:param name="inDir" select="'in'"/>
   <xsl:param name="outDir" select="'_out_'"/>
-  <xsl:variable name="of" select="'xml'"/>
+  <xsl:variable name="of" select="'html'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
   <xsl:variable name="sr" select="'\*'"/>
   <xsl:variable name="rarrow" select="'▸'"/>
+  <xsl:variable name="tb" select="' 	 '"/>
+
   
   <xsl:template match="/" name="main">
 
@@ -96,10 +104,74 @@
 		    </xsl:if>
 		  </xsl:if>
 		  
-		  
-		  <xsl:if test="position() &gt; 5">
+		  <xsl:if test="(position() &gt; 5) and 
+				(position() &lt; 9)">
 		    <xsl:if test="not(contains(., '_xxx_'))">
 		      <xsl:value-of select="concat(' ', normalize-space(.))"/>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=9">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <br/>
+		      <b>
+			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+		      </b>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=10">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <xsl:value-of select="concat(' ',
+					    normalize-space(.))"/>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=11">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <br/>
+		      <b>
+			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+		      </b>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=12">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <xsl:value-of select="concat(' ',
+					    normalize-space(.))"/>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=13">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <br/>
+		      <b>
+			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+		      </b>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=14">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <xsl:value-of select="concat(' ',
+					    normalize-space(.))"/>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=15">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <br/>
+		      <b>
+			<xsl:value-of select="concat($tb, $tb, normalize-space(.))"/>
+		      </b>
+		    </xsl:if>
+		  </xsl:if>
+
+		  <xsl:if test="position()=16">
+		    <xsl:if test="not(contains(., '_xxx_'))">
+		      <xsl:value-of select="concat(' ',
+					    normalize-space(.))"/>
 		    </xsl:if>
 		  </xsl:if>
 		  
