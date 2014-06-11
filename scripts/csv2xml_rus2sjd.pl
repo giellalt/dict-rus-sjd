@@ -47,10 +47,11 @@ while (<INFILE>) {
   $eCounter++;  
   print OUTFILE '  <e id="'.$eCounter.'" l="'.scalar(@current_data).'">'."\n";
   
-  for my $e (0 .. $#current_data) {
-    my $current_s = $current_data[$e];
-    $current_s =~ s/^\s+//;
-    $current_s =~ s/\s+$//;
+  for my $e (0 .. $#current_data) {      # traverse the array containing the 16 variables
+    my $current_s = $current_data[$e];   # $current_data[$e] is the content of the variable at index e
+    $current_s =~ s/^\s+//;              # delete initial whitespace
+    $current_s =~ s/\s+$//;              # delete final whitespace
+                                         # thus, if whitespace only, delete it all
 
     if ($current_s eq ''){
       $current_s = $e+1;
